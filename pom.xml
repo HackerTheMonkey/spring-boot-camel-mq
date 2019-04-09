@@ -166,6 +166,11 @@
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.lgim.eai.platform.common</groupId>
+            <artifactId>platform-common</artifactId>
+            <version>2.1.32-SNAPSHOT</version>
+        </dependency>
 
     </dependencies>
 
