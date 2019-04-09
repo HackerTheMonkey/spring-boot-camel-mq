@@ -169,7 +169,7 @@
         <dependency>
             <groupId>com.lgim.eai.platform.common</groupId>
             <artifactId>platform-common</artifactId>
-            <version>2.1.32-SNAPSHOT</version>
+            <version>2.1.28</version>
         </dependency>
 
     </dependencies>
