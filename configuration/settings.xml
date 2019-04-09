@@ -84,6 +84,17 @@
             <updatePolicy>never</updatePolicy>
           </releases>
         </repository>
+		<repository>
+          <id>redhat.ea</id>          
+          <url>https://maven.repository.redhat.com/earlyaccess/all/</url>
+          <snapshots>
+            <enabled>false</enabled>
+          </snapshots>
+          <releases>
+            <enabled>true</enabled>
+            <updatePolicy>never</updatePolicy>
+          </releases>
+        </repository>
       </repositories>
       <pluginRepositories>
         <pluginRepository>
