@@ -1,4 +1,4 @@
-package io.fabric8.quickstarts.camel.amq;
+package com.lgim;
 
 import org.apache.camel.builder.RouteBuilder;
 import org.springframework.stereotype.Component;
